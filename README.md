@@ -26,3 +26,12 @@ Booking System: Create a booking mechanism for users to reserve properties and m
 Payment Processing: Integrate a payment system to handle transactions and record payment details.
 Review System: Allow users to leave reviews and ratings for properties.
 Data Optimization: Ensure efficient data retrieval and storage through database optimizations
+
+CI/CD Pipeline
+Continuous Integration (CI) involves automatically integrating code changes from multiple developers into a shared repository several times a day. Each change triggers automated builds and tests to catch issues early.
+
+Continuous Deployment/Delivery (CD) ensures that code changes, once tested, are automatically or manually deployed to production or staging environments.
+Examples
+Docker – Creates isolated, consistent environments for building and testing.
+Maven / Gradle / npm / pip – Handles build processes and dependencies.
+JUnit / PyTest / Jest / Selenium – Used for unit and integration testing.
